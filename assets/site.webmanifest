@@ -1,0 +1,20 @@
+{
+  "name": "Alder House Jewelry",
+  "short_name": "Alder House",
+  "description": "Alder House Jewelry",
+  "icons": [
+    {
+      "src": "/assets/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#F7F2E9",
+  "background_color": "#F7F2E9",
+  "display": "standalone"
+}
